@@ -6,6 +6,8 @@
   border-radius:25px;
   box-shadow: 0 10px 30px rgba(255,182,193,0.4);
   display:inline-block;
+  border-collapse:collapse;
+  border:none;
 ">
 
   <table>
