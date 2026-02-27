@@ -11,7 +11,7 @@
     <tr>
       <td style="padding:20px;">
         <div style="position:relative; display:inline-block;">
-          <h1> 🌸 PINK 🌸 VAL </h1>
+          <h1> 🌸 PINK - VAL 🌸 </h1>
         </div>
       </td>
       <td style="padding:20px;">
