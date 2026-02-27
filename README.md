@@ -6,14 +6,22 @@
   border-radius:25px;
   box-shadow: 0 10px 30px rgba(255,182,193,0.4);
   display:inline-block;
-  border-collapse:collapse;
-  border:none;
 ">
 
   <table>
     <tr>
       <td style="padding:20px; font-size:22px; font-weight:bold; color:#6a0572;">
         <img width="324" height="253" alt="Captura desde 2026-02-27 23-00-04" src="https://github.com/user-attachments/assets/b0a3fe01-ec03-460f-8275-5bc0cd2d1508" />
+        <div style="
+          position:absolute;
+          top:20px;
+          left:20px;
+          color:white;
+          font-size:28px;
+          font-weight:bold;
+          text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+        ">
+        🌸 PINK 🌸
       </td>
       <td style="padding:20px;">
         <img src="oshi-no-ko-ai-hoshino.gif" width="500" style="
