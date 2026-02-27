@@ -11,7 +11,8 @@
   <table>
     <tr>
       <td style="padding:20px; font-size:22px; font-weight:bold; color:#6a0572;">
-        🌸 PINK 🌸
+          🌸 PINK 🌸
+        <img width="324" height="253" alt="Captura desde 2026-02-27 23-00-04" src="https://github.com/user-attachments/assets/b0a3fe01-ec03-460f-8275-5bc0cd2d1508" />
       </td>
       <td style="padding:20px;">
         <img src="oshi-no-ko-ai-hoshino.gif" width="500" style="
