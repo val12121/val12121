@@ -11,7 +11,12 @@
     <tr>
       <td style="padding:20px;">
         <div style="position:relative; display:inline-block;">
-          <h1> 🌸 PINK - VAL 🌸 </h1>
+          <style>
+            .cursiva {
+              font-style: italic;
+            }
+          </style>
+          <p class="cursiva">Este texto también está en cursiva.</p>
         </div>
       </td>
       <td style="padding:20px;">
