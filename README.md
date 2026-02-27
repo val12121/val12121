@@ -1,13 +1,13 @@
 <html>
   <table>
-    <tr>
+    <td>
       <p align="center">
         <img src="" width="400">
-    </tr>
-    <tr>
+    </td>
+    <td>
       <p align="center">
         <img src="oshi-no-ko-ai-hoshino.gif" width="400">
       </p>
-    </tr>
+    </td>
   </table>
 </html>
