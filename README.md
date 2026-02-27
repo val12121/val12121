@@ -23,7 +23,7 @@
             font-weight:bold;
             text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
           ">
-            🌸 PINK 🌸
+            <h1>🌸 PINK 🌸</h1>
           </div>
         </div>
       </td>
