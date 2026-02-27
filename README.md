@@ -1,1 +1,1 @@
-![oshi-no-ko-ai-hoshino.gif](d)
+![d](oshi-no-ko-ai-hoshino.gif)
