@@ -9,8 +9,8 @@
     <table border="0" cellpadding="0" cellspacing="0">
       <tr>
         <td style="vertical-align: middle; padding-right: 15px;">
-          <img src="ai.gif" width="200" style="display: block; margin-bottom: 10px; border-radius: 15px;">
-          <img src="val.gif" width="200" style="display: block; border-radius: 15px;">
+          <img src="ai.gif" width="150" style="display: block; margin-bottom: 10px; border-radius: 15px;">
+          <img src="val.gif" width="150" style="display: block; border-radius: 15px;">
           <div align="right" format="bold"><h3><p>💻<i> Computer Engineering </i>💻</h3></p>
           <p><b> 🌸 PINK 🌸</p>
           </div>
