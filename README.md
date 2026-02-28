@@ -9,10 +9,9 @@
     <table>
       <tr>
         <td style="padding:50px;"> 
-          <div style="position:relative; display:inline-block;">
-            <img src:"ilustración11.gif" width="500" style="
-              border-radius:20px;
-              box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+          <img src:"val11.gif" width="500" style="
+            border-radius:20px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
             ">
           </div>
         </td>
