@@ -18,7 +18,7 @@
           </div>
         </td>
         <td style="vertical-align: middle; padding: 10px;">
-          <img src="oshi-no-ko-ai-hoshino.gif" width="450" style="display: block; border-radius: 20px;">
+          <img src="oshi-no-ko-ai-hoshino.gif" width="500" style="display: block; border-radius: 20px;">
         </td>
       </tr>
     </table>
