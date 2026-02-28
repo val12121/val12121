@@ -9,14 +9,14 @@
     <table>
       <td>
         <table>
-        <!-- <tr style="padding:10px; vertical-align: top;"> -->
+        <tr style="padding:10px; vertical-align: top;">
             <td><img src="ai.gif" width="200" style="
               display:block;
               margin-bottom:20px;
               border-radius:0px;
               box-shadow: 0 0px 0px rgba(0,0,0,0);
             "></td>
-          <!-- <tr style="padding:10px; vertical-align: top;"> -->
+          <tr style="padding:10px; vertical-align: top;">
             <td><img src="val.gif" width="200" style="
               display:block;
               margin-bottom:20px;
@@ -26,9 +26,8 @@
           </tr>
       </table>  
         <!-- Columna derecha con una sola imagen -->
-      <tr>
       <td style="padding:10px; vertical-align: top;">
-        <img src="oshi-no-ko-ai-hoshino.gif" width="500" style="
+        <img src="oshi-no-ko-ai-hoshino.gif" width="600" style="
           border-radius:20px;
           box-shadow: 0 0x 0px rgba(0,0,0,0.0);
         "> </td> </tr>
