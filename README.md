@@ -10,7 +10,7 @@
       <tr>
         <td style="padding:50px;"> 
           <div style="position:relative; display:inline-block;">
-            <img src:"https://github.com/user-attachments/assets/b9334925-26a2-4703-afe2-6d42c7eb6c8a" width="500" style="
+            <img src:"ilustración11.gif" width="500" style="
               border-radius:20px;
               box-shadow: 0 8px 20px rgba(0,0,0,0.2);
             ">
