@@ -10,7 +10,10 @@
       <tr>
         <td style="padding:50px;"> 
           <div style="position:relative; display:inline-block;">
-            <img width="310" height="465" alt="Ilustración11" src="https://github.com/user-attachments/assets/026faee0-09bc-4e67-899a-fdb9609cb8ab" />
+            <img src:"https://github.com/user-attachments/assets/b9334925-26a2-4703-afe2-6d42c7eb6c8a" width="500" style="
+              border-radius:20px;
+              box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+            ">
           </div>
         </td>
         <td style="padding:20px;">
