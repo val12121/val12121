@@ -9,7 +9,7 @@
     <table>
       <tr>
         <td style="padding:20px;"> 
-          <img src="val11.gif" width="300" style="
+          <img src="val.gif" width="300" style="
             border-radius:20px;
             box-shadow: 0 8px 20px rgba(0,0,0,0.2);
             ">
