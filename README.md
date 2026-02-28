@@ -21,9 +21,6 @@
       </tr>
     </table>
     <h1 style="font-family: 'Great Vibes', cursive; color: #ff47a1; margin-top: 25px;">Hello world! I am Val 🌸 </h1>
-    <div style="color: #ffb6c1; margin: 15px 0;">
-      ____________________________________________________________
-      <p></p>
     </div>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=val12121&theme=sakura-x&ring=EB3FBC&fire=EB94CD&sideNums=FF77DAF0&currStreakLabel=FF5FDE&dates=FFFFFFF6&stroke=E3DDEB&border=FF10BE&sideLabels=D792EB" 
