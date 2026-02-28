@@ -7,29 +7,30 @@
     display: inline-block;
   ">
     <table>
-        <td style="padding:10px; vertical-align: top;">
-            <img src="val.gif" width="200" style="
+      <td>
+        <table>
+        <tr style="padding:10px; vertical-align: top;">
+            <td><img src="val.gif" width="200" style="
               display:block;
               margin-bottom:20px;
-              border-radius:20px;
-              box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-            ">
-            <img src="val.gif" width="200" style="
+              border-radius:0px;
+              box-shadow: 0 0px 0px rgba(0,0,0,0);
+            "></td>
+          <tr style="padding:10px; vertical-align: top;">
+            <td><img src="val.gif" width="200" style="
               display:block;
               margin-bottom:20px;
-              border-radius:20px;
-              box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-            ">
-            </tr>
-          </td>
+              border-radius:0px;
+              box-shadow: 0 0px 0px rgba(0,0,0,0);
+            "</td>
+          </tr>
+      </table>  
         <!-- Columna derecha con una sola imagen -->
-        <td style="padding:10px; vertical-align: top;">
-          <img src="oshi-no-ko-ai-hoshino.gif" width="400" style="
-            border-radius:20px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-          ">
-        <!-- </tr> -->
-      </td>
+      <td style="padding:10px; vertical-align: top;">
+        <img src="oshi-no-ko-ai-hoshino.gif" width="500" style="
+          border-radius:20px;
+          box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        "> </td>
     </table>
     <!-- GitHub Streak -->
     <a href="https://git.io/streak-stats">
@@ -38,5 +39,6 @@
     </a>
   </div>
 </div>
+
 
 <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
