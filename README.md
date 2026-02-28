@@ -37,6 +37,6 @@
     <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </h3>
 
-  <img src="barra.gif" width="450" style="display: block; border-radius: 20px;">
+  <img src="barra1.gif" width="450" style="display: block; border-radius: 20px;">
   </div>
 </div>
