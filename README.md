@@ -27,7 +27,7 @@
       </table>  
         <!-- Columna derecha con una sola imagen -->
       <td style="padding:10px; vertical-align: top;">
-        <img src="oshi-no-ko-ai-hoshino.gif" width="600" style="
+        <img src="oshi-no-ko-ai-hoshino.gif" width="550" style="
           border-radius:20px;
           box-shadow: 0 0x 0px rgba(0,0,0,0.0);
         "> </td> </tr>
