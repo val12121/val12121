@@ -10,12 +10,7 @@
       <tr>
         <td style="padding:50px;"> 
           <div style="position:relative; display:inline-block;">
-            <p class="cursiva" style="
-              font-size:48px; 
-              font-family: 'Great Vibes', cursive;
-              color:#d63384;
-              margin:0;
-            ">VAL</p>
+            <img width="310" height="465" alt="Ilustración11" src="https://github.com/user-attachments/assets/026faee0-09bc-4e67-899a-fdb9609cb8ab" />
           </div>
         </td>
         <td style="padding:20px;">
