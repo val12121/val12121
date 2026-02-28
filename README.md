@@ -11,6 +11,10 @@
         <td style="vertical-align: middle; padding: 10px;">
           <img src="ai.gif" width="150" style="display:block; border-radius:15px;">
           <img src="val.gif" width="150" style="display:block; border-radius:15px;">
+          <div align="right">
+            <h3>💻 <i>Computer Engineering</i> 💻</h3>
+            <p><b>🌸 PINK 🌸</b></p>
+          </div>
         </td>
         <td style="vertical-align: middle; padding: 10px;">
           <img src="oshi-no-ko-ai-hoshino.gif" width="450" style="display: block; border-radius: 20px;">
@@ -18,8 +22,6 @@
       </tr>
     </table>
     <div style="margin-top: 15px; color: #ff47a1;">
-       <h3>💻 <i>Computer Engineering</i> 💻</h3>
-       <p><b>🌸 PINK 🌸</b></p>
     </div>
     <h1 style="font-family: 'Great Vibes', cursive; color: #ff47a1; margin-top: 10px;">Hello world! I am Val 🌸</h1>
     <br>
