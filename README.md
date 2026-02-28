@@ -6,6 +6,7 @@
     box-shadow: 0 10px 30px rgba(255,182,193,0.4);
     display: inline-block;
   ">
+    <img src="barra.gif" width="450" style="display: block; border-radius: 20px;">
     <table border="0" cellpadding="0" cellspacing="0">
       <tr>
         <td style="vertical-align: middle; padding: 10px;">
