@@ -29,5 +29,12 @@
       <img src="https://streak-stats.demolab.com?user=val12121&theme=sakura-x&ring=EB3FBC&fire=EB94CD&sideNums=FF77DAF0&currStreakLabel=FF5FDE&dates=FFFFFFF6&stroke=E3DDEB&border=FF10BE&sideLabels=D792EB" 
            alt="GitHub Streak" style="border-radius:15px;">
     </a>
+  
+  <h3>
+    <img src="https://img.shields.io/badge/c++-%23FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+    <img src="https://img.shields.io/badge/HTML5-9370DB?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+    <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </h3>
+  
   </div>
 </div>
