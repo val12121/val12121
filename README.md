@@ -39,4 +39,7 @@
 
   <img src="barra.gif" width="450" style="display: block; border-radius: 20px;">
   </div>
+<h6>Made by val12121</h6>
+  
 </div>
+<!-- https://github.com/val12121/ -->
